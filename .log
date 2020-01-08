@@ -1,0 +1,75 @@
+This is TeX, Version 3.14159265 (TeX Live 2018) (preloaded format=tex 2018.4.16)  8 JAN 2020 16:31
+**.gitignore
+(./.gitignore)
+*# Binaries for programs and plugins
+! You can't use `macro parameter character #' in vertical mode.
+<*> #
+      Binaries for programs and plugins
+? *.exe
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? *.exe~
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? *.dll
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? *.so
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? *.dylib
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+*# Test binary, built with `go test -c`
+! You can't use `macro parameter character #' in horizontal mode.
+<*> #
+      Test binary, built with `go test -c`
+? *.test
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+*# Output of the go coverage tool, specifically when used with LiteIDE
+! You can't use `macro parameter character #' in horizontal mode.
+<*> #
+      Output of the go coverage tool, specifically when used with LiteIDE
+? *.out
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+*# Dependency directories (remove the comment below to include it)
+! You can't use `macro parameter character #' in horizontal mode.
+<*> #
+      Dependency directories (remove the comment below to include it)
+? # vendor/I
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, 
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? x
+No pages of output.
